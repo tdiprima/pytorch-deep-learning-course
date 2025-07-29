@@ -2,7 +2,7 @@
 
 This repo is based on the Comprehensive 25-Hour Program, which I participated in some time ago.
 
-This repository includes READMEs for subdirectories, brought to you by Claude Code.
+The READMEs in the subdirectories are brought to you by Claude Code.
 
 ## Master PyTorch for Deep Learning in Just One Day
 
@@ -22,5 +22,3 @@ Created by Daniel Bourke
 - Learn with the [Learn PyTorch for Deep Learning: Zero to Mastery Book](https://www.learnpytorch.io/)
   - Discover [Companion Videos](https://zerotomastery.io/)
 - Discover 'The Incredible PyTorch' Project on [GitHub](https://github.com/ritchieng/the-incredible-pytorch)
-
-<br>

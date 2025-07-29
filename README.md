@@ -1,32 +1,26 @@
-# pytorch-deep-learning-course
-Following the 25-Hour Course
+# PyTorch Deep Learning Course
 
-## Learn PyTorch for deep learning in a day. Literally.
+A Comprehensive 25-Hour Program
 
-Daniel Bourke
+This repository includes READMEs for subdirectories, brought to you by Claude Code.
 
-[Video](https://youtu.be/Z_ikDlimN6A)
+## Master PyTorch for Deep Learning in Just One Day
 
-[GitHub Repo](https://github.com/mrdbourke/pytorch-deep-learning)
+Created by Daniel Bourke
 
-### Additional info:
+- [Watch the Video](https://youtu.be/Z_ikDlimN6A)
+- [Explore the GitHub Repository](https://github.com/mrdbourke/pytorch-deep-learning)
 
-[PyTorch](https://pytorch.org/)
+### Additional Resources:
 
-[Forums](https://discuss.pytorch.org/)
-
-[Google Colab](https://colab.research.google.com/)
-
-[Torch Hub](https://pytorch.org/hub/)
-
-* [Get models](https://pytorch.org/vision/stable/models.html)
-
-[Trends](https://paperswithcode.com/trends)
-
-[Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/)
-
-* [videos to go with it](https://zerotomastery.io/)
-
-[The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)
+- Official [PyTorch Website](https://pytorch.org/)
+- Join Discussions on PyTorch [Forums](https://discuss.pytorch.org/)
+- Try PyTorch on [Google Colab](https://colab.research.google.com/)
+- Access Pre-trained Models on [Torch Hub](https://pytorch.org/hub/)
+  - [Explore Available Models](https://pytorch.org/vision/stable/models.html)
+- Monitor PyTorch [Trends](https://paperswithcode.com/trends)
+- Learn with the [Learn PyTorch for Deep Learning: Zero to Mastery Book](https://www.learnpytorch.io/)
+  - Discover [Companion Videos](https://zerotomastery.io/)
+- Discover 'The Incredible PyTorch' Project on [GitHub](https://github.com/ritchieng/the-incredible-pytorch)
 
 <br>

@@ -1,6 +1,6 @@
 # PyTorch Deep Learning Course
 
-A Comprehensive 25-Hour Program
+This repo is based on the Comprehensive 25-Hour Program, which I participated in some time ago.
 
 This repository includes READMEs for subdirectories, brought to you by Claude Code.
 
